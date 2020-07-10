@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Hurley Huang.
+
+- 🎓 A student at 🇬🇧 [University of Leeds](https://www.leeds.ac.uk), *MSc in Advanced Computer Science (Artificial Intelligence)*.
+- 👨🏻‍💻 Currently finding jobs.
+- ⚡️ Java / Python. Android / PyTorch.
+- 📫 Email me at: hurleyhuang@hotmail.com
