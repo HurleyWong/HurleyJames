@@ -2,8 +2,6 @@
 
 Hi, I'm Hurley Huang, 🎓 A student at 🇬🇧 [University of Leeds](https://www.leeds.ac.uk), *MSc in Advanced Computer Science (Artificial Intelligence)*.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-
 - 🔭 I’m currently working on my project [ProofOfSituationAwareness](https://github.com/epournaras/ProofOfSituationAwareness).
 - 🌱 I’m currently learning Blockchain.
 - 👨🏻‍💻 I'm currently finding jobs.
@@ -22,7 +20,7 @@ Hi, I'm Hurley Huang, 🎓 A student at 🇬🇧 [University of Leeds](https://w
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">](https://www.typescriptlang.org/) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/golang.png" alt="go logo" width="38">](https://www.https://golang.org/)|  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="r logo" width="24">](https://www.https://golang.org/)
 |---|---|---|---|
 
-### Tools 🛠️
+**Tools** 🛠️
 
 - Know/Using
 
@@ -39,13 +37,3 @@ Hi, I'm Hurley Huang, 🎓 A student at 🇬🇧 [University of Leeds](https://w
 [![Hurley's github stats](https://github-readme-stats.vercel.app/api?username=HurleyJames&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ⭐️ From [Hurley](https://github.com/HurleyJames)
-
-
-<a href="https://github.com/HurleyJames/HurleyJames.github.io">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=HurleyJames&repo=HurleyJames.github.io" />
-</a>
-
-<a href="https://github.com/HurleyJames/MyLeetCode">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=HurleyJames&repo=MyLeetCode" />
-</a>
-
