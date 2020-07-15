@@ -1,9 +1,8 @@
-### Hey 👋🏽, I'm [Hurley Huang!](http://hurley.fun) 
+### Hey 👋 I'm [Hurley Huang!](http://hurley.fun) 
 
 Hi, I'm Hurley Huang, 🎓 A student at 🇬🇧 [University of Leeds](https://www.leeds.ac.uk), *MSc in Advanced Computer Science (Artificial Intelligence)*.
 
 - 🔭 I’m currently working on my project [ProofOfSituationAwareness](https://github.com/epournaras/ProofOfSituationAwareness).
-- 🌱 I’m currently learning Blockchain.
 - 👨🏻‍💻 I'm currently finding jobs.
 - 💬 Ask me about anything [here](https://github.com/HurleyJames/HurleyJames/issues).
 - 📫 Email me at: hurleyhuang@hotmail.com.
@@ -26,11 +25,6 @@ Hi, I'm Hurley Huang, 🎓 A student at 🇬🇧 [University of Leeds](https://w
 
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/actions.png" alt="actions logo" width="24">](https://github.com/features/actions) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="24">](https://jupyter.org/) | [<img src="https://raw.githubusercontent.com/HurleyJames/ImageHosting/master/intellij_idea.png" alt="idea logo" width="24">](https://www.jetbrains.com/idea/)  |  [<img src="https://raw.githubusercontent.com/HurleyJames/ImageHosting/master/256px-Android_Studio_icon.svg.png" alt="android studio logo" width="24">](https://developer.android.com/studio/) |
 |---|---|---|---|---|---|
-
-- Learning
-
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="24">](https://www.docker.com/) |[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes logo" width="24">](https://kubernetes.io/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt="aws logo" width="24">](https://aws.amazon.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue logo" width="24">](https://vuejs.org/)|
-|---|---|---|---|
 
 ![Hurley's github stats](https://github-readme-stats.vercel.app/api?username=HurleyJames&show_icons=true&hide_border=true)
 
