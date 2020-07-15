@@ -32,8 +32,6 @@ Hi, I'm Hurley Huang, 🎓 A student at 🇬🇧 [University of Leeds](https://w
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="24">](https://www.docker.com/) |[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes logo" width="24">](https://kubernetes.io/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt="aws logo" width="24">](https://aws.amazon.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue logo" width="24">](https://vuejs.org/)|
 |---|---|---|---|
 
----
-
-[![Hurley's github stats](https://github-readme-stats.vercel.app/api?username=HurleyJames&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Hurley's github stats](https://github-readme-stats.vercel.app/api?username=HurleyJames&show_icons=true&hide_border=true)
 
 ⭐️ From [Hurley](https://github.com/HurleyJames)
