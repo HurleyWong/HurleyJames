@@ -2,13 +2,13 @@
 
 Hi, I'm Hurley Huang, 🎓 A student at 🇬🇧 [University of Leeds](https://www.leeds.ac.uk), *MSc in Advanced Computer Science (Artificial Intelligence)*.
 
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 - 🔭 I’m currently working on my project [ProofOfSituationAwareness](https://github.com/epournaras/ProofOfSituationAwareness).
 - 🌱 I’m currently learning Blockchain.
 - 👨🏻‍💻 I'm currently finding jobs.
 - 💬 Ask me about anything [here](https://github.com/HurleyJames/HurleyJames/issues).
 - 📫 Email me at: hurleyhuang@hotmail.com.
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 **Languages and Tools:** 🌐
 
@@ -36,9 +36,7 @@ Hi, I'm Hurley Huang, 🎓 A student at 🇬🇧 [University of Leeds](https://w
 
 ---
 
-
-
-![Hurley's github stats](https://github-readme-stats.vercel.app/api?username=HurleyJames&show_icons=true&hide_border=true)
+[![Hurley's github stats](https://github-readme-stats.vercel.app/api?username=HurleyJames&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ⭐️ From [Hurley](https://github.com/HurleyJames)
 
