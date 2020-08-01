@@ -1,7 +1,9 @@
 ### Hey 👋 I'm [Hurley Huang!](http://hurley.fun) 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=HurleyJames&show_icons=true&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=HurleyJames&show_icons=true&hide_border=true&count_private=true" />
 
+<img align="right src="https://github-readme-stats.vercel.app/api/top-langs/?username=HurleyJames)" />
+ 
 - 🎓 A student at 🇬🇧 [University of Leeds](https://www.leeds.ac.uk), *MSc in Advanced Computer Science (Artificial Intelligence)*.
 - 🔭 I’m currently working on my project [ProofOfSituationAwareness](https://github.com/epournaras/ProofOfSituationAwareness).
 - 👨🏻‍💻 I'm currently finding jobs.
