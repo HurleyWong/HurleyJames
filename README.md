@@ -1,5 +1,5 @@
-### Hey 👋 I'm [Hurley Huang!](https://hurley.fun) 
-🎓 A student at 🇬🇧 [University of Leeds](https://www.leeds.ac.uk), *MSc in Advanced Computer Science (Artificial Intelligence)*.
+### Hey 👋 I'm [Hurley Huang!](https://withh.life) 
+A member of 🇬🇧 [University of Leeds](https://www.leeds.ac.uk) Alumni, *MSc in Advanced Computer Science (AI)*.
 
 ![Metrics](https://github.com/HurleyJames/HurleyJames/blob/master/github-metrics.svg)
 
