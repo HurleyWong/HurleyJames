@@ -18,7 +18,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           
           # Options
-          user: HurleyJames
+          user: HurleyWong
           template: classic
           base: header, activity, community, repositories
           config_timezone: Asia/Shanghai
